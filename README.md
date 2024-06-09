@@ -45,7 +45,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
 
 public class Control extends Application {
-````
+
     public void start(Stage primaryStage) {
         // Crear los controles
         Label dateLabel = new Label("Selecciona una fecha:");
