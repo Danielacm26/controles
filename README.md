@@ -34,7 +34,7 @@ El constructor inicializa los componentes, configura el diseño y agrega action 
 
 ## codigo
 
-package controles;
+````package controles;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -45,7 +45,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
 
 public class Control extends Application {
-
+````
     public void start(Stage primaryStage) {
         // Crear los controles
         Label dateLabel = new Label("Selecciona una fecha:");
